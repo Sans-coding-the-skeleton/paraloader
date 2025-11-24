@@ -149,10 +149,6 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 4. Submit a pull request
     
 
-## 📄 License
-
-This project is open source. Please add your preferred license here.
-
 ## 🎯 Project Significance
 
 This project demonstrates sophisticated understanding of:
