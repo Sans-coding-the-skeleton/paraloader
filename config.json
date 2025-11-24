@@ -1,0 +1,8 @@
+{
+  "default_connections": 4,
+  "chunk_size": 1048576,
+  "timeout": 30,
+  "max_retries": 3,
+  "user_agent": "ParallelDownloader/1.0",
+  "buffer_size": 65536
+}
