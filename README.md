@@ -61,6 +61,7 @@ cd paraloader
 bash
 
 pip install requests
+python -m venv venv
 
 ## 💻 Usage
 
@@ -121,7 +122,7 @@ The downloader automatically adjusts based on:
 
 bash
 
-python src/cli.py https://download.samplelib.com/mp4/sample-5s.mp4 video.mp4 -c 4 -v
+python run.py https://download.samplelib.com/mp4/sample-5s.mp4 video.mp4 -c 4 -v
 
 ### Real-world Performance
 
