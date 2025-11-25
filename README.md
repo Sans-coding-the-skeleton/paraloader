@@ -60,7 +60,7 @@ cd paraloader
 
 bash
 
-pip install requests
+pip install -r requirements.txt
 python -m venv venv
 
 ## 💻 Usage
