@@ -53,6 +53,7 @@ A high-performance Python-based parallel file downloader that utilizes multi-con
 bash
 
 git clone https://github.com/Sans-coding-the-skeleton/paraloader.git
+
 cd paraloader
 
 2. Install dependencies:
