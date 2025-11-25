@@ -68,13 +68,13 @@ pip install requests
 
 bash
 
-python src/cli.py https://example.com/large-file.zip output.zip
+python run.py https://example.com/large-file.zip output.zip
 
 ### Advanced Usage
 
 bash
 
-python src/cli.py https://example.com/large-file.zip output.zip -c 8 -v
+python run.py https://example.com/large-file.zip output.zip -c 8 -v
 
 ### Command Line Options
 
