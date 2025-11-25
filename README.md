@@ -65,19 +65,21 @@ pip install -r requirements.txt
 
 python -m venv venv
 
+.\venv\Script\python.exe -m pip install requests
+
 ## 💻 Usage
 
 ### Basic Usage
 
 bash
 
-python run.py https://example.com/large-file.zip output.zip
+.\venv\Script\python.exe python run.py https://example.com/large-file.zip output.zip
 
 ### Advanced Usage
 
 bash
 
-python run.py https://example.com/large-file.zip output.zip -c 8 -v
+.\venv\Script\python.exe python run.py https://example.com/large-file.zip output.zip -c 8 -v
 
 ### Command Line Options
 
@@ -124,7 +126,7 @@ The downloader automatically adjusts based on:
 
 bash
 
-python run.py https://download.samplelib.com/mp4/sample-5s.mp4 video.mp4 -c 4 -v
+.\venv\Script\python.exe python run.py https://download.samplelib.com/mp4/sample-5s.mp4 video.mp4 -c 4 -v
 
 ### Real-world Performance
 
